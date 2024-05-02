@@ -20,6 +20,6 @@ These questions are **important** because...
 ## Data Description
 
 ## Interpreting Visualizationa
+<img width="937" alt="Screenshot 2024-05-02 at 2 58 33 PM" src="https://github.com/Ezelkind/mgt4250spring2024/assets/142430723/c0567b67-fb71-47b0-8da1-12b7ae415afb">
 
 ## Discussion & Summary
-
